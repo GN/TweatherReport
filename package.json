@@ -1,0 +1,19 @@
+{
+  "name": "twitter_weather_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gennaro Napolitano",
+  "license": "ISC",
+  "dependencies": {
+    "cloudconvert": "^1.1.2",
+    "svg2png": "^4.1.1",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {
+    "request": "^2.87.0"
+  }
+}
